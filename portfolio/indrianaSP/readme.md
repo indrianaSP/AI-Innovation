@@ -1,1 +1,8 @@
-<a href="./portfolio/your_folder"><img src="./images/portfolio.png" width="24px" height="24px"></a>
+### Hi there 👋 MY NAME IS INDRI
+
+- 🔭 I’m currently working as Civil Servant at Departement Cooperative, SMEs, Trade and Industri of Cirebon City
+- 🌱 I’m currently learning about Magister Innovation Regional
+- 🤔 I’m looking for help with learning python, machine learning and AI
+- 
+- 📫 How to reach me: **insyapobit2@gmail.com**
+
