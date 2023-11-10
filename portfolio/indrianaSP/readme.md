@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="portfolio/indrianaSP/data science.jpg" width="524px" height="324px">
+</p>
+
 ### Hi there 👋 MY NAME IS INDRI
 
 - 🔭 I’m currently working as Civil Servant at Departement Cooperative, SMEs, Trade and Industri of Cirebon City
